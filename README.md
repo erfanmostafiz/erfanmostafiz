@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 📢 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/erfanmostafiz/" target="_blank">
+  <a href="https://www.linkedin.com/in/erfanmostafiz/" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">
   </a>
   &nbsp;
