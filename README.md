@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔥 Full stack Web Developer, Machine Learning engineer, and UI/UX Designer
 - 🧑‍💻 My technical expertise includes - Python, JavaScript, Database, ReactJS, NodeJs, TensorFlowAI, and Figma
 - 🤑 Highly interested in programming, coding, and AI
-- ✉️ Contact me through Gmail: erfan.mostafiz5@gmail.com
+- ✉️ Contact me through email: erfan.mostafiz5@gmail.com
 
 --- 
 
