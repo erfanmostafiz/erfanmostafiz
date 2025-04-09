@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me:
 
-- 🎓 BSc. in Computer Science from [North South University](https://www.northsouth.edu/), Dhaka, BD, with Magna Cum Laude distinction award
+- 🎓 BS in Computer Science degree from [North South University](https://www.northsouth.edu/), Dhaka, BD, with Magna Cum Laude distinction award
 - 🔥 Full stack Web Developer, Machine Learning engineer, and UI/UX Designer
 - 🧑‍💻 My technical expertise includes - Python, JavaScript, Database, ReactJS, NodeJs, TensorFlowAI, and Figma
 - 🤑 Highly interested in programming, coding, and AI
