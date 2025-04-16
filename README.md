@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me:
+### About me:
 
 - 🎓 BS in Computer Science degree from [NSU](https://www.northsouth.edu/) with Magna Cum Laude distinction award
 - 🔥 Full Stack Web developer, App Developer, Software Engineer, and UI/UX Designer
