@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## About me:
 
 - 🎓 BS in Computer Science degree from [NSU](https://www.northsouth.edu/) with Magna Cum Laude distinction award
-- 🔥 Full Stack Web developer, App Developer, Machine Learning engineer, and UI/UX Designer
-- 🧑‍💻 My technical expertise includes - Python, JavaScript, React Native, TypeScriptm Database, ReactJS, NodeJs, TensorFlowAI, and Figma
-- 🤑 Highly interested in programming, coding, and AI
+- 🔥 Full Stack Web developer, App Developer, Software Engineer, and UI/UX Designer
+- 🧑‍💻 My technical expertise includes - Python, JavaScript, React Native, TypeScript, DBMS, ReactJS, NodeJs, TensorFlowAI, and Figma
+- 🤑 Highly interested in all things coding, and AI
 - ✉️ Contact me through email: erfan.mostafiz5@gmail.com
 
 --- 
