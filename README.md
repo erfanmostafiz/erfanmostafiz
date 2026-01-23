@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">
   </a>
   &nbsp;
-  <a href="[https://x.com/erfan_mostafiz](https://x.com/erfan_mostafiz)" target="_blank">
+  <a href="https://x.com/erfan_mostafiz" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="40">
   </a>
   &nbsp;
