@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="40">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/erfanmostafiz/" target="_blank">
+  <a href="https://www.instagram.com/erfan_mostafiz/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40">
   </a>
 </p>
