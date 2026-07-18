@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔥 Full Stack Web developer, App Developer, Software Engineer, and AI Automation Expert
 - 🧑‍💻 My technical expertise includes - Python, JavaScript, React Native, TypeScript, DBMS, ReactJS, NodeJs, TensorFlowAI, and Figma
 - 🤑 Highly interested in all things coding and AI
-- ✉️ Contact me through email: erfan.mostafiz2@gmail.com
+- ✉️ Contact me through email: erfan.mostafiz@gmail.com
 
 --- 
 
