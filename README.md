@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### About me:
 
-- 🎓 BS in Computer Science & Engineering from [NSU](https://www.northsouth.edu/) with Magna Cum Laude distinction award
-- 🔥 Full Stack Web developer, App Developer, Software Engineer, and AI Automation Expert
-- 🧑‍💻 My technical expertise includes - Python, JavaScript, React Native, TypeScript, DBMS, ReactJS, NodeJs, TensorFlowAI, and Figma
+- 🎓 BSc. in Computer Science & Engineering from [North South University](https://www.northsouth.edu/), Dhaka, Bangladesh with Cum Laude Distinction Award
+- 🔥 Full Stack Web developer, App Developer, Software Engineer, and AI Automation Engineer
+- 🧑‍💻 My technical expertise includes - Python, JavaScript, React, NextJs TypeScript, DBMS, NodeJs, TensorFlow, and Figma
 - 🤑 Highly interested in all things coding and AI
 
 --- 
