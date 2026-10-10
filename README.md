@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About me:
 
-- 🎓 BSc. in Computer Science & Engineering from [North South University](https://www.northsouth.edu/), Dhaka, Bangladesh with Cum Laude Distinction Award
+- 🎓 BSc. in Computer Science & Engineering from [North South University](https://www.northsouth.edu/), Dhaka, Bangladesh, with Cum Laude Distinction Award
 - 🔥 Full Stack Web developer, App Developer, Software Engineer, and AI Automation Engineer
 - 🧑‍💻 My technical expertise includes - Python, JavaScript, React, NextJs TypeScript, DBMS, NodeJs, TensorFlow, and Figma
 - 🤑 Highly interested in all things coding and AI
